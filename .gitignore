@@ -1,0 +1,20 @@
+# client material and renders never go in this repo
+footage/
+audio/
+data/
+out/
+app/public/brand/
+music/out/
+music/work/
+music/master/
+job_*/
+*.wav
+*.flac
+*.mp3
+*.mp4
+*.mov
+# installed separately
+vendor/
+node_modules/
+__pycache__/
+.env
